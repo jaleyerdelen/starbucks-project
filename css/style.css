@@ -1,0 +1,473 @@
+.d-cont {
+    display: contents;
+}
+
+#id {
+  position: fixed;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+.navbar-padding {
+    padding:10px 90px;
+}
+/* svg {
+  position: absolute;
+  right: 150px;
+  color: gray;
+} */
+.form-control {
+  width: 300px !important;
+}
+.member {
+    display: flex
+}
+.drow {
+    display:block !important;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    background-color: rgb(238, 237, 237);
+    border-color:  rgb(238, 237, 237);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+}
+.headerh5 {
+    width: 159px;
+    height: 5px;
+    display: flex;
+}
+.imagemain {
+  position: absolute;
+  z-index: -1;
+}
+li > a {
+  font-family: "Roboto", sans-serif;
+}
+
+.regular {
+  color: #444242;
+  font-family: "Roboto", sans-serif;
+  font-size: 30px;
+  margin: 0;
+}
+.text-bold {
+  font-family: "Montserrat", sans-serif;
+  padding-bottom: 11px;
+  margin: 0;
+  font-size: 50px;
+}
+
+.greenbox {
+  line-height: 0;
+  color: rgb(199, 199, 199);
+  border-radius: 7px;
+}
+.leftsign {
+  margin-top: 80px;
+  margin-right: 50px;
+}
+.rightmain {
+  margin-top: 226px;
+}
+.rightbox {
+  display: flex;
+  margin-top: 231px;
+  justify-content: flex-end;
+  margin-right: -260px;
+}
+#testimonials {
+  background-image: url(../images/img-mainbanner.png);
+  background-size: cover;
+  background-position: center center;
+}
+.c-item {
+  padding: 12% 9%;
+}
+.box {
+  background-color: rgb(230, 230, 230);
+  width: 30px;
+  height: 30px;
+  border: 1px solid white;
+  opacity: 2;
+  border-radius: 15px;
+}
+.transparent {
+  position: relative;
+  bottom: 52px;
+  font-family: sans-serif;
+  font-size: 15px;
+  color: white;
+  height: 52px;
+  display: flex;
+  background: rgb(0 0 0 / 25%);
+}
+.border-left {
+  height: 30px;
+  margin-top: 10px;
+}
+.firstlorem {
+  text-align: right;
+  margin-top: 10px;
+}
+.circlegreen {
+  color: #006633;
+  padding: 5px;
+  font-size: 18px;
+}
+.col-md-3 {
+  display: inline-block;
+  margin-left: -10px;
+}
+
+span.carousel-control-prev-icon {
+  position: relative;
+  bottom: 40px;
+  right: 40px;
+}
+
+span.carousel-control-next-icon {
+  position: relative;
+  bottom: 40px;
+}
+.text-muted {
+  line-height: 0;
+  margin: 7px;
+}
+.carouselmargin {
+  margin-bottom: 90px;
+}
+.menu {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+.menu > li {
+  margin-right: 15px;
+}
+.menu > li > a {
+  color: gray;
+  background-color: rgb(245, 236, 236);
+  border-radius: 14px;
+  font-weight: normal;
+  padding: 5px;
+}
+.number-li {
+  background-color: #006633 !important;
+  color: white !important;
+}
+.img-snow {
+  width: 1090px;
+}
+
+#backgroundprofile {
+  background-image: url(../images/img-review-1.png);
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  display: flex;
+}
+.transparentsmall {
+  background: rgb(255 255 255 / 46%);
+  color: black;
+  width: 193px;
+  height: 50px;
+  margin-top: 149px;
+}
+.profilephoto {
+  margin-left: 17px;
+  margin-top: 6px;
+  margin-right: 7px;
+}
+#backgroundprofile-2 {
+  background-image: url(../images/img-review-2.png);
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  display: flex;
+}
+#backgroundprofile-3 {
+  background-image: url(../images/img-review-3.png);
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  display: flex;
+}
+#backgroundprofile-4 {
+  background-image: url(../images/img-review-4.png);
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  display: flex;
+}
+#backgroundprofile-5 {
+  background-image: url(../images/img-review-5.png);
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  display: flex;
+}
+#backgroundprofile-6 {
+  background-image: url(../images/img-review-6.png);
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  display: flex;
+}
+#backgroundprofile-7 {
+  background-image: url(../images/img-review-7.png);
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  display: flex;
+}
+#backgroundprofile-8 {
+  background-image: url(../images/img-review-8.png);
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  display: flex;
+}
+#backgroundprofile-9 {
+  background-image: url(../images/img-review-9.png);
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  display: flex;
+}
+#backgroundprofile-10 {
+  background-image: url(../images/img-review-10.png);
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  display: flex;
+}
+#backgroundprofile-11 {
+  background-image: url(../images/img-review-11.png);
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  display: flex;
+}
+#backgroundprofile-12 {
+  background-image: url(../images/img-review-12.png);
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  display: flex;
+}
+
+.headerh5 {
+  font-size: 14px;
+  color:#444242;
+}
+.textp,
+p {
+  font-size: 11px;
+  color: rgb(119, 117, 117);
+  font-family: "Roboto" !important;
+}
+.footerend {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+.hrsolid {
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  width: 72% !important;
+}
+.footertext {
+  border-left: 1px solid rgb(119, 117, 117);
+  /* color: rgb(88, 85, 85); */
+  color: rgb(119, 117, 117);
+  font-family: "Roboto" !important;
+  font-size: 11px;
+  margin-right: 20px;
+  margin-left: 20px;
+  justify-content: center;
+  height: 17px;
+  padding-left: 10px;
+}
+.footercenter {
+    padding-left: 26px;
+}
+.bg-light {
+    padding: 10px 90px;
+    font-size: small;
+}
+
+#rapper {
+  position: relative;
+  width: 100%;
+}
+  .searchicon {
+        height: 100%;
+  right: 16px;
+  position: absolute;
+  top: 0;
+    }
+@media (max-width: 767px) {
+    body {
+      height: 100%;
+    }
+    .carousel-item {
+        width:auto;
+        margin-right: -200px;
+    }
+    .carousel-inner {
+        overflow: auto;
+    }
+    .drink-carousel {
+    display: flex !important;
+    overflow: auto;
+    }
+    .card-footer {
+        padding: 0;
+        margin: 0,
+    }
+    .designer {
+        padding: 0;
+    }
+    
+    .navbar {
+        background-color:#006633!important ;
+       
+    }
+    
+   
+    .navbar-light .navbar-toggler-icon {
+        background-color: white;
+    }
+    .searchitem {
+            left: 10px;
+           
+    
+    position: absolute;
+    color: white;
+        left: 10px;
+    top: 32px;
+    }
+  
+    .box-navbar {
+         position: absolute;
+        margin-right: 126px;
+    margin-top: 2px;
+    color: white;
+    }
+    .menu {
+        justify-content: flex-start;
+    }
+ 
+
+.c-item {
+    flex-direction: column;
+    padding: 5% 0 17% 0;
+}
+.regular {
+    font-size: 12px;
+}
+.text-bold {
+    font-size: 20px;
+    padding-bottom: 4px;
+}
+
+.display-none {
+    display: none;
+}
+.greenbox {
+    margin-top: 10px;
+}
+.header {
+    display:block;
+    font-size: 14px;
+    text-align: left;
+    padding: 15px 0 0 25px;
+}
+.carousel-control-next {
+    display: none
+}
+.carouselmargin {
+    margin-bottom: 10%;
+}
+.right-0 {
+    padding-right:0;
+}
+.col-md-3 {
+    margin-left: 0;
+    padding: 0;
+}
+.menu {
+    padding-left: 25px;
+}
+.img-snow {
+    height: max-content;
+    padding: 0 !important;
+    margin: 20px 0 0 0 !important;
+}
+.news-content {
+    padding-left: 20px;
+  }
+  .information {
+    width: 65%;
+  }
+  .date {
+    width: 35%;
+  }
+  .p-bottom {
+    padding-bottom: 10px;
+  }
+  .bottom-0 {
+    margin-bottom: 0;
+  }
+  .top-0 {
+    margin-top: 0;
+  }
+.togglerbutton {
+          margin-left: 160px;
+  }
+  .starbucks {
+      margin-bottom: -56px;
+      padding-top: 14px;
+  }
+    }
+
+
+@media (min-width: 768px) {
+    body {
+        contain: content;
+    }
+    .container {
+      width: 768px;
+    }
+    .tablet-size {
+        overflow: auto;
+    }
+  
+    
+  }
+
+  @media only screen and (min-width: 980px) {
+    .container {
+      width: 980px;
+    }
+    
+  }
+
+  @media only screen and (min-width: 1200px) {
+    .container {
+      width: 1200px;
+    }
+  }
+
