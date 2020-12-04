@@ -348,10 +348,13 @@ p {
   .navbar-light .navbar-toggler-icon {
     background-color: white;
   }
+  .navbar-padding {
+      padding: 10px;
+
+  }
   .searchitem {
     position: absolute;
     color: white;
-    left: 56px;
     top: 32px;
   }
 
@@ -428,12 +431,12 @@ p {
   .top-0 {
     margin-top: 0;
   }
-  .togglerbutton {
-    margin-left: 183px;
-  }
   .starbucks {
-    margin-bottom: -56px;
+    display: flex;
     padding-top: 14px;
+  }
+  .stext {
+    padding-left: 40px;
   }
 }
 
