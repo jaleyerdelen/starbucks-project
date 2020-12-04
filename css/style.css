@@ -1,5 +1,5 @@
 .d-cont {
-    display: contents;
+  display: contents;
 }
 
 #id {
@@ -10,7 +10,7 @@
   min-height: 100%;
 }
 .navbar-padding {
-    padding:10px 90px;
+  padding: 10px 90px;
 }
 /* svg {
   position: absolute;
@@ -21,21 +21,21 @@
   width: 300px !important;
 }
 .member {
-    display: flex
+  display: flex;
 }
 .drow {
-    display:block !important;
-    width: 100%;
-    height: 40px;
-    display: flex;
-    background-color: rgb(238, 237, 237);
-    border-color:  rgb(238, 237, 237);
-    border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+  display: block !important;
+  width: 100%;
+  height: 40px;
+  display: flex;
+  background-color: rgb(238, 237, 237);
+  border-color: rgb(238, 237, 237);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
 }
 .headerh5 {
-    width: 159px;
-    height: 5px;
-    display: flex;
+  width: 159px;
+  height: 5px;
+  display: flex;
 }
 .imagemain {
   position: absolute;
@@ -271,7 +271,7 @@ span.carousel-control-next-icon {
 
 .headerh5 {
   font-size: 14px;
-  color:#444242;
+  color: #444242;
 }
 .textp,
 p {
@@ -301,122 +301,116 @@ p {
   padding-left: 10px;
 }
 .footercenter {
-    padding-left: 26px;
+  padding-left: 26px;
 }
 .bg-light {
-    padding: 10px 90px;
-    font-size: small;
+  padding: 10px 90px;
+  font-size: small;
 }
 
 #rapper {
   position: relative;
   width: 100%;
 }
-  .searchicon {
-        height: 100%;
+.searchicon {
+  height: 100%;
   right: 16px;
   position: absolute;
   top: 0;
-    }
+}
 @media (max-width: 767px) {
-    body {
-      height: 100%;
-    }
-    .carousel-item {
-        width:auto;
-        margin-right: -200px;
-    }
-    .carousel-inner {
-        overflow: auto;
-    }
-    .drink-carousel {
+  body {
+    height: 100%;
+  }
+  .carousel-item {
+    width: auto;
+    margin-right: -200px;
+  }
+  .carousel-inner {
+    overflow: auto;
+  }
+  .drink-carousel {
     display: flex !important;
     overflow: auto;
-    }
-    .card-footer {
-        padding: 0;
-        margin: 0,
-    }
-    .designer {
-        padding: 0;
-    }
-    
-    .navbar {
-        background-color:#006633!important ;
-       
-    }
-    
-   
-    .navbar-light .navbar-toggler-icon {
-        background-color: white;
-    }
-    .searchitem {
-            left: 10px;
-           
-    
+  }
+  .card-footer {
+    padding: 0;
+    margin: 0;
+  }
+  .designer {
+    padding: 0;
+  }
+
+  .navbar {
+    background-color: #006633 !important ;
+  }
+
+  .navbar-light .navbar-toggler-icon {
+    background-color: white;
+  }
+  .searchitem {
     position: absolute;
     color: white;
-        left: 10px;
+    left: 56px;
     top: 32px;
-    }
-  
-    .box-navbar {
-         position: absolute;
-        margin-right: 126px;
+  }
+
+  .box-navbar {
+    position: absolute;
+    margin-right: 126px;
     margin-top: 2px;
     color: white;
-    }
-    .menu {
-        justify-content: flex-start;
-    }
- 
+  }
+  .menu {
+    justify-content: flex-start;
+  }
 
-.c-item {
+  .c-item {
     flex-direction: column;
     padding: 5% 0 17% 0;
-}
-.regular {
+  }
+  .regular {
     font-size: 12px;
-}
-.text-bold {
+  }
+  .text-bold {
     font-size: 20px;
     padding-bottom: 4px;
-}
+  }
 
-.display-none {
+  .display-none {
     display: none;
-}
-.greenbox {
+  }
+  .greenbox {
     margin-top: 10px;
-}
-.header {
-    display:block;
+  }
+  .header {
+    display: block;
     font-size: 14px;
     text-align: left;
     padding: 15px 0 0 25px;
-}
-.carousel-control-next {
-    display: none
-}
-.carouselmargin {
+  }
+  .carousel-control-next {
+    display: none;
+  }
+  .carouselmargin {
     margin-bottom: 10%;
-}
-.right-0 {
-    padding-right:0;
-}
-.col-md-3 {
+  }
+  .right-0 {
+    padding-right: 0;
+  }
+  .col-md-3 {
     margin-left: 0;
     padding: 0;
-}
-.menu {
+  }
+  .menu {
     padding-left: 25px;
-}
-.img-snow {
+  }
+  .img-snow {
     height: max-content;
     padding: 0 !important;
     margin: 20px 0 0 0 !important;
-}
-.news-content {
+  }
+  .news-content {
     padding-left: 20px;
   }
   .information {
@@ -434,40 +428,35 @@ p {
   .top-0 {
     margin-top: 0;
   }
-.togglerbutton {
-          margin-left: 160px;
+  .togglerbutton {
+    margin-left: 183px;
   }
   .starbucks {
-      margin-bottom: -56px;
-      padding-top: 14px;
+    margin-bottom: -56px;
+    padding-top: 14px;
   }
-    }
-
+}
 
 @media (min-width: 768px) {
-    body {
-        contain: content;
-    }
-    .container {
-      width: 768px;
-    }
-    .tablet-size {
-        overflow: auto;
-    }
-  
-    
+  body {
+    contain: content;
   }
-
-  @media only screen and (min-width: 980px) {
-    .container {
-      width: 980px;
-    }
-    
+  .container {
+    width: 768px;
   }
-
-  @media only screen and (min-width: 1200px) {
-    .container {
-      width: 1200px;
-    }
+  .tablet-size {
+    overflow: auto;
   }
+}
 
+@media only screen and (min-width: 980px) {
+  .container {
+    width: 980px;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .container {
+    width: 1200px;
+  }
+}
